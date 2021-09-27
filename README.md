@@ -5,7 +5,7 @@ I'm a Front-end Blockchain Developer graduated in Data Science and I'm working o
 
 - 🧐 Always learning about blockchain, smart contracts, and web development。
 - 🤔 I’m looking for help with development in solidity。
-- 💬 Ping me about react, node, javascript, miner BTC and sci-fy。
+- 💬 Ping me about react, node, javascript, mining BTC and sci-fy。
 - 🎉 Fun Fact: I like cyberpunk and Lo-fi。
 
  <div>
