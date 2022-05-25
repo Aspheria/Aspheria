@@ -6,7 +6,7 @@ I'm a Front-end Blockchain Developer graduated in Data Science and I'm working o
 - 🧐 Always learning about blockchain, smart contracts, and web development。
 - 🤔 I’m looking for help with development in solidity。
 - 💬 Ping me about react, node, javascript, mining BTC and sci-fy。
-- 🎉 Fun Fact: I like cyberpunk and Lo-fi。
+- 🎉 Fun Fact: I like cyberpunk, Lo-fi and progressive metal 。
 
  <div>
   <a href="https://github.com/Aspheria">
