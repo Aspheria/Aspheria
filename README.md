@@ -53,3 +53,5 @@ I'm a Front-end Blockchain Developer graduated in Data Science and I'm working o
    <a href="https://open.spotify.com/user/starkilleer?si=5d79229823654bf1" target="_blank"><img src="https://img.shields.io/badge/Spotify-Spotify-brightgreen" target="_blank"></a> 
  
 </div>
+
+
