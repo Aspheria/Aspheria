@@ -1,5 +1,8 @@
 ### Hi there, I am Lorrane 👋
-I'm a Front-end Blockchain Developer graduated in Data Science and I'm working on some side projects, learning a couple new skills, reading some Lovecraft books.
+I'm a Front-end Blockchain Developer with a background in Data Science. Currently, I'm delving into various side projects, expanding my skill set, and diving into the eerie worlds crafted by Lovecraft through his books. In addition to my professional endeavors, I'm pursuing a Master's degree in Software Engineering at UNICAMP, further deepening my understanding of the intricacies of software development.
+
+
+
 
 ## ⚡️ A Few Quick Facts
 
